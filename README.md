@@ -1,4 +1,5 @@
-# settings_page
+![img alt](https://github.com/ComputerScienceHayk/flutter_settings/blob/master/example.gif)
+settings_page
 
 A new Flutter application.
 
