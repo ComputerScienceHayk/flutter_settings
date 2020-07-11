@@ -1,0 +1,27 @@
+{
+  "@@last_modified": "2019-06-27T23:38:38.868199",
+  "changeLang": "Փոխել լեզուն",
+  "@changeLang": {
+    "description": "Einfaches Wort zur Begrüßung",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enLangButton": "Անգլերեն",
+  "@enLangButton": {
+    "description": "Einfaches Wort zur Begrüßung",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ruLangButton": "Ռուսերեն",
+  "@ruLangButton": {
+    "description": "Simpel word for greeting ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "armLangButton": "Հայերեն",
+  "@armLangButton": {
+    "description": "Simpel word for greeting ",
+    "type": "text",
+    "placeholders": {}
+  }
+}

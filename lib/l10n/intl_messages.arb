@@ -1,0 +1,27 @@
+{
+  "@@last_modified": "2019-06-28T17:50:47.781400",
+  "changeLang": "Change language",
+  "@changeLang": {
+    "description": "Simpel word for greeting ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enLangButton": "English",
+  "@enLangButton": {
+    "description": "Simpel word for greeting ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ruLangButton": "Russian",
+  "@ruLangButton": {
+    "description": "Simpel word for greeting ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "armLangButton": "Armenian",
+  "@armLangButton": {
+    "description": "Simpel word for greeting ",
+    "type": "text",
+    "placeholders": {}
+  }
+}

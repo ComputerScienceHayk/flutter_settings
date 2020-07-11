@@ -1,0 +1,27 @@
+{
+    "@@last_modified": "2019-06-27T23:38:38.868199",
+    "changeLang": "Поменять язык",
+    "@changeLang": {
+      "description": "Einfaches Wort zur Begrüßung",
+      "type": "text",
+      "placeholders": {}
+    },
+    "enLangButton": "Английский",
+    "@enLangButton": {
+      "description": "Einfaches Wort zur Begrüßung",
+      "type": "text",
+      "placeholders": {}
+    },
+    "ruLangButton": "Русский",
+    "@ruLangButton": {
+      "description": "Simpel word for greeting ",
+      "type": "text",
+      "placeholders": {}
+    },
+    "armLangButton": "Армянский",
+    "@armLangButton": {
+      "description": "Simpel word for greeting ",
+      "type": "text",
+      "placeholders": {}
+    }
+}
